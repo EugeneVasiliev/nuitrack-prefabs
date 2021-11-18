@@ -1,0 +1,11 @@
+{
+	"name": "com.nuitrack.prefabs",
+	"displayName": "Nuitrack Prefabs",
+	"version": "0.0.1",
+	"unity": "2020.3",
+	"description": "Nuitrack Unity Package (tutorials inside)",
+	"keywords": [ "nuitrack", "skeleton", "depth sensor" ],
+	"category": "skeleton tracking",
+	"dependencies": {
+	}
+}

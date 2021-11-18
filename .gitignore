@@ -4,11 +4,7 @@
 
 !.gitignore
 
-!.gitlab-ci.yml
-!deploy_package.cmd
-!deploy_apk.cmd
-!deploy_abb.cmd
-!deploy_linux.cmd
+!package.json
 !/Packages
 !/Assets
 
