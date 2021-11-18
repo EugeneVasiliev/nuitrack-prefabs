@@ -8,6 +8,10 @@
 	"category": "skeleton tracking",
 	"dependencies": {
 	},
+	"files": [
+		"NuitrackSDK*",
+		"Plugins*"
+	],
 	"samples": [
 		{
 			"displayName": "Tutorials",
