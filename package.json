@@ -1,6 +1,6 @@
 {
 	"name": "com.nuitrack.prefabs",
-	"displayName": "Nuitrack Prefabs",
+	"displayName": "NuitrackSDK",
 	"version": "0.0.1",
 	"unity": "2020.3",
 	"description": "Nuitrack Unity Package (tutorials inside)",
